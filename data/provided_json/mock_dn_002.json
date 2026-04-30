@@ -1,0 +1,45 @@
+{
+    "sales_order_no": "5099880002",
+    "items": [
+        {
+            "material_no": "100012",
+            "description": "綠野硬豆腐340g HK",
+            "customer_code": "133725",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "44",
+            "del_qty": "44"
+        },
+        {
+            "material_no": "100022",
+            "description": "綠野蒸煮滑豆腐350ml HK",
+            "customer_code": "120764",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "43",
+            "del_qty": "43"
+        }
+    ],
+    "total_no_of_items": "2",
+    "warehouse_information": {
+        "oc_or_dc_logistics": "",
+        "w_h_visa": "",
+        "load_weight": "",
+        "visa": ""
+    },
+    "transporter_information": {
+        "transporter": "",
+        "truck_no": "",
+        "container_no_seal_n": "",
+        "milk_crate_deposit": "",
+        "milk_crate_refund": "",
+        "visa": "",
+        "date_time": ""
+    },
+    "customer_visa": {
+        "customer_note": "",
+        "date_time": "",
+        "visa": ""
+    },
+    "company_note": ""
+}

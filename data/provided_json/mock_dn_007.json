@@ -1,0 +1,90 @@
+{
+    "sales_order_no": "5099880007",
+    "items": [
+        {
+            "material_no": "100016",
+            "description": "綠野煎炸滑豆腐孖裝 (2x228ml) HK",
+            "customer_code": "318804",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "19",
+            "del_qty": "19"
+        },
+        {
+            "material_no": "100025",
+            "description": "晨曦農場有機豆漿 500ml",
+            "customer_code": "665544",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "3",
+            "del_qty": "3"
+        },
+        {
+            "material_no": "100014",
+            "description": "綠野滑豆腐250gHK",
+            "customer_code": "498938",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "50",
+            "del_qty": "50"
+        },
+        {
+            "material_no": "100011",
+            "description": "星光牛奶公司脫脂乳酪飲品藍莓味200ml HK",
+            "customer_code": "387100",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "16",
+            "del_qty": "16"
+        },
+        {
+            "material_no": "100022",
+            "description": "綠野蒸煮滑豆腐350ml HK",
+            "customer_code": "120764",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "28",
+            "del_qty": "28"
+        },
+        {
+            "material_no": "100012",
+            "description": "綠野硬豆腐340g HK",
+            "customer_code": "133725",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "10",
+            "del_qty": "10"
+        },
+        {
+            "material_no": "100017",
+            "description": "綠野蒸煮滑豆腐孖裝 (2x228ml) HK",
+            "customer_code": "174658",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "34",
+            "del_qty": "34"
+        }
+    ],
+    "total_no_of_items": "7",
+    "warehouse_information": {
+        "oc_or_dc_logistics": "",
+        "w_h_visa": "",
+        "load_weight": "",
+        "visa": ""
+    },
+    "transporter_information": {
+        "transporter": "",
+        "truck_no": "",
+        "container_no_seal_n": "",
+        "milk_crate_deposit": "",
+        "milk_crate_refund": "",
+        "visa": "",
+        "date_time": ""
+    },
+    "customer_visa": {
+        "customer_note": "",
+        "date_time": "",
+        "visa": ""
+    },
+    "company_note": ""
+}

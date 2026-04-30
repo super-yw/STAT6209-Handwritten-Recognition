@@ -1,0 +1,80 @@
+{
+    "invoice_no": "4082272607",
+    "items": [
+        {
+            "item_code": "9131690",
+            "desc_en": "STARLAND CLCN HiCa Milk 946ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 946ml HK",
+            "case_factor": "20",
+            "sold_qty": "7",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "7",
+            "del_case": "0",
+            "del_unit": "7",
+            "unit_price": "13.58",
+            "total_amount": "95.06",
+            "cust_item_code": "5243"
+        },
+        {
+            "item_code": "9131652",
+            "desc_en": "STARLAND Fresh Milk 236ml HK",
+            "desc_zh": "星光牛奶公司鮮奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "20",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "20",
+            "del_case": "0",
+            "del_unit": "20",
+            "unit_price": "5.81",
+            "total_amount": "116.20",
+            "cust_item_code": "7191"
+        },
+        {
+            "item_code": "12228811",
+            "desc_en": "NDF Fat Free Drk Ygt Mngo App 200ml HK",
+            "desc_zh": "星光牛奶公司脫脂乳酪飲品芒果蘋果味200ml HK",
+            "case_factor": "60",
+            "sold_qty": "17",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "17",
+            "del_case": "0",
+            "del_unit": "17",
+            "unit_price": "5.41",
+            "total_amount": "91.97",
+            "cust_item_code": "3503"
+        },
+        {
+            "item_code": "8827362",
+            "desc_en": "GREENFIELD Soft Tofu 250g HK",
+            "desc_zh": "綠野滑豆腐 250g HK",
+            "case_factor": "12",
+            "sold_qty": "16",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "16",
+            "del_case": "0",
+            "del_unit": "16",
+            "unit_price": "5.20",
+            "total_amount": "83.20",
+            "cust_item_code": "6276"
+        },
+        {
+            "item_code": "9131687",
+            "desc_en": "STARLAND CLCN HiCa Milk 236ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 236ml HK",
+            "case_factor": "60",
+            "sold_qty": "9",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "9",
+            "del_case": "0",
+            "del_unit": "9",
+            "unit_price": "3.87",
+            "total_amount": "34.83",
+            "cust_item_code": "9853"
+        }
+    ]
+}

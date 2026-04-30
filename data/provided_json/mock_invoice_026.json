@@ -1,0 +1,35 @@
+{
+    "invoice_no": "4082272588",
+    "items": [
+        {
+            "item_code": "9131652",
+            "desc_en": "STARLAND Fresh Milk 236ml HK",
+            "desc_zh": "星光牛奶公司鮮奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "20",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "20",
+            "del_case": "0",
+            "del_unit": "20",
+            "unit_price": "5.81",
+            "total_amount": "116.20",
+            "cust_item_code": "4058"
+        },
+        {
+            "item_code": "9131652",
+            "desc_en": "STARLAND Fresh Milk 236ml HK",
+            "desc_zh": "星光牛奶公司鮮奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "8",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "8",
+            "del_case": "0",
+            "del_unit": "8",
+            "unit_price": "5.81",
+            "total_amount": "46.48",
+            "cust_item_code": "7750"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "invoice_no": "4082272575",
+    "items": [
+        {
+            "item_code": "9132657",
+            "desc_en": "STARLAND Skimmed Milk 236ml HK",
+            "desc_zh": "星光牛奶公司脫脂高鈣奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "13",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "13",
+            "del_case": "0",
+            "del_unit": "13",
+            "unit_price": "3.87",
+            "total_amount": "50.31",
+            "cust_item_code": "9249"
+        },
+        {
+            "item_code": "12228811",
+            "desc_en": "NDF Fat Free Drk Ygt Mngo App 200ml HK",
+            "desc_zh": "星光牛奶公司脫脂乳酪飲品芒果蘋果味200ml HK",
+            "case_factor": "60",
+            "sold_qty": "16",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "16",
+            "del_case": "0",
+            "del_unit": "16",
+            "unit_price": "5.41",
+            "total_amount": "86.56",
+            "cust_item_code": "7394"
+        },
+        {
+            "item_code": "9131690",
+            "desc_en": "STARLAND CLCN HiCa Milk 946ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 946ml HK",
+            "case_factor": "20",
+            "sold_qty": "8",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "8",
+            "del_case": "0",
+            "del_unit": "8",
+            "unit_price": "13.58",
+            "total_amount": "108.64",
+            "cust_item_code": "8424"
+        },
+        {
+            "item_code": "9131690",
+            "desc_en": "STARLAND CLCN HiCa Milk 946ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 946ml HK",
+            "case_factor": "20",
+            "sold_qty": "11",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "11",
+            "del_case": "0",
+            "del_unit": "11",
+            "unit_price": "13.58",
+            "total_amount": "149.38",
+            "cust_item_code": "1824"
+        },
+        {
+            "item_code": "9132657",
+            "desc_en": "STARLAND Skimmed Milk 236ml HK",
+            "desc_zh": "星光牛奶公司脫脂高鈣奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "15",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "15",
+            "del_case": "0",
+            "del_unit": "15",
+            "unit_price": "3.87",
+            "total_amount": "58.05",
+            "cust_item_code": "5665"
+        }
+    ]
+}

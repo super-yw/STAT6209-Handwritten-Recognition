@@ -1,0 +1,153 @@
+{
+    "sales_order_no": "5099880014",
+    "items": [
+        {
+            "material_no": "100019",
+            "description": "綠野鹽滷豆腐250g HK",
+            "customer_code": "431324",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "22",
+            "del_qty": "22"
+        },
+        {
+            "material_no": "100023",
+            "description": "星光牛奶公司脫脂日式白桃味乳酪飲品 200ml",
+            "customer_code": "409597",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "17",
+            "del_qty": "17"
+        },
+        {
+            "material_no": "100024",
+            "description": "藍天農場燕麥奶 1L",
+            "customer_code": "998877",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "5",
+            "del_qty": "5"
+        },
+        {
+            "material_no": "100019",
+            "description": "綠野鹽滷豆腐250g HK",
+            "customer_code": "431324",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "27",
+            "del_qty": "27"
+        },
+        {
+            "material_no": "100019",
+            "description": "綠野鹽滷豆腐250g HK",
+            "customer_code": "431324",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "16",
+            "del_qty": "16"
+        },
+        {
+            "material_no": "100013",
+            "description": "星光牛奶公司高鈣奶 236ml HK",
+            "customer_code": "190005",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "40",
+            "del_qty": "40"
+        },
+        {
+            "material_no": "100021",
+            "description": "綠野煎炸滑豆腐350ml HK",
+            "customer_code": "191653",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "31",
+            "del_qty": "31"
+        },
+        {
+            "material_no": "100011",
+            "description": "星光牛奶公司脫脂乳酪飲品藍莓味200ml HK",
+            "customer_code": "387100",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "3",
+            "del_qty": "3"
+        },
+        {
+            "material_no": "100025",
+            "description": "晨曦農場有機豆漿 500ml",
+            "customer_code": "665544",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "6",
+            "del_qty": "6"
+        },
+        {
+            "material_no": "100025",
+            "description": "晨曦農場有機豆漿 500ml",
+            "customer_code": "665544",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "46",
+            "del_qty": "46"
+        },
+        {
+            "material_no": "100016",
+            "description": "綠野煎炸滑豆腐孖裝 (2x228ml) HK",
+            "customer_code": "318804",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "37",
+            "del_qty": "37"
+        },
+        {
+            "material_no": "100013",
+            "description": "星光牛奶公司高鈣奶 236ml HK",
+            "customer_code": "190005",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "20",
+            "del_qty": "20"
+        },
+        {
+            "material_no": "100023",
+            "description": "星光牛奶公司脫脂日式白桃味乳酪飲品 200ml",
+            "customer_code": "409597",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "6",
+            "del_qty": "6"
+        },
+        {
+            "material_no": "100017",
+            "description": "綠野蒸煮滑豆腐孖裝 (2x228ml) HK",
+            "customer_code": "174658",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "7",
+            "del_qty": "7"
+        }
+    ],
+    "total_no_of_items": "14",
+    "warehouse_information": {
+        "oc_or_dc_logistics": "",
+        "w_h_visa": "",
+        "load_weight": "",
+        "visa": ""
+    },
+    "transporter_information": {
+        "transporter": "",
+        "truck_no": "",
+        "container_no_seal_n": "",
+        "milk_crate_deposit": "",
+        "milk_crate_refund": "",
+        "visa": "",
+        "date_time": ""
+    },
+    "customer_visa": {
+        "customer_note": "",
+        "date_time": "",
+        "visa": ""
+    },
+    "company_note": ""
+}

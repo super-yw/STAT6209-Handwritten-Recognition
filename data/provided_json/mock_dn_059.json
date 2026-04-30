@@ -1,0 +1,54 @@
+{
+    "sales_order_no": "5099880059",
+    "items": [
+        {
+            "material_no": "100012",
+            "description": "綠野硬豆腐340g HK",
+            "customer_code": "133725",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "43",
+            "del_qty": "43"
+        },
+        {
+            "material_no": "100018",
+            "description": "星光牛奶公司純乳酪杯裝475g HK",
+            "customer_code": "120720",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "23",
+            "del_qty": "23"
+        },
+        {
+            "material_no": "100015",
+            "description": "星光牛奶公司鮮奶946ml HK",
+            "customer_code": "120639",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "29",
+            "del_qty": "29"
+        }
+    ],
+    "total_no_of_items": "3",
+    "warehouse_information": {
+        "oc_or_dc_logistics": "",
+        "w_h_visa": "",
+        "load_weight": "",
+        "visa": ""
+    },
+    "transporter_information": {
+        "transporter": "",
+        "truck_no": "",
+        "container_no_seal_n": "",
+        "milk_crate_deposit": "",
+        "milk_crate_refund": "",
+        "visa": "",
+        "date_time": ""
+    },
+    "customer_visa": {
+        "customer_note": "",
+        "date_time": "",
+        "visa": ""
+    },
+    "company_note": ""
+}

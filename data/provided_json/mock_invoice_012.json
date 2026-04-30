@@ -1,0 +1,65 @@
+{
+    "invoice_no": "4082272574",
+    "items": [
+        {
+            "item_code": "9131687",
+            "desc_en": "STARLAND CLCN HiCa Milk 236ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 236ml HK",
+            "case_factor": "60",
+            "sold_qty": "17",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "17",
+            "del_case": "0",
+            "del_unit": "17",
+            "unit_price": "3.87",
+            "total_amount": "65.79",
+            "cust_item_code": "6688"
+        },
+        {
+            "item_code": "12228811",
+            "desc_en": "NDF Fat Free Drk Ygt Mngo App 200ml HK",
+            "desc_zh": "星光牛奶公司脫脂乳酪飲品芒果蘋果味200ml HK",
+            "case_factor": "60",
+            "sold_qty": "10",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "10",
+            "del_case": "0",
+            "del_unit": "10",
+            "unit_price": "5.41",
+            "total_amount": "54.10",
+            "cust_item_code": "8998"
+        },
+        {
+            "item_code": "12452972",
+            "desc_en": "NDF Fat Free DrkYgt Jpns Wht Peh 200mlHK",
+            "desc_zh": "星光牛奶公司脫脂日式白桃味乳酪飲品 200ml HK",
+            "case_factor": "60",
+            "sold_qty": "19",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "19",
+            "del_case": "0",
+            "del_unit": "19",
+            "unit_price": "5.41",
+            "total_amount": "102.79",
+            "cust_item_code": "2405"
+        },
+        {
+            "item_code": "9132657",
+            "desc_en": "STARLAND Skimmed Milk 236ml HK",
+            "desc_zh": "星光牛奶公司脫脂高鈣奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "14",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "14",
+            "del_case": "0",
+            "del_unit": "14",
+            "unit_price": "3.87",
+            "total_amount": "54.18",
+            "cust_item_code": "7200"
+        }
+    ]
+}

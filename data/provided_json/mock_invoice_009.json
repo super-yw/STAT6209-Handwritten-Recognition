@@ -1,0 +1,20 @@
+{
+    "invoice_no": "4082272571",
+    "items": [
+        {
+            "item_code": "9132657",
+            "desc_en": "STARLAND Skimmed Milk 236ml HK",
+            "desc_zh": "星光牛奶公司脫脂高鈣奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "17",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "17",
+            "del_case": "0",
+            "del_unit": "17",
+            "unit_price": "3.87",
+            "total_amount": "65.79",
+            "cust_item_code": "4093"
+        }
+    ]
+}

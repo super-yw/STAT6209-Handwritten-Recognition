@@ -1,0 +1,135 @@
+{
+    "sales_order_no": "5099880068",
+    "items": [
+        {
+            "material_no": "100022",
+            "description": "綠野蒸煮滑豆腐350ml HK",
+            "customer_code": "120764",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "4",
+            "del_qty": "4"
+        },
+        {
+            "material_no": "100016",
+            "description": "綠野煎炸滑豆腐孖裝 (2x228ml) HK",
+            "customer_code": "318804",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "13",
+            "del_qty": "13"
+        },
+        {
+            "material_no": "100013",
+            "description": "星光牛奶公司高鈣奶 236ml HK",
+            "customer_code": "190005",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "12",
+            "del_qty": "12"
+        },
+        {
+            "material_no": "100013",
+            "description": "星光牛奶公司高鈣奶 236ml HK",
+            "customer_code": "190005",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "37",
+            "del_qty": "37"
+        },
+        {
+            "material_no": "100022",
+            "description": "綠野蒸煮滑豆腐350ml HK",
+            "customer_code": "120764",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "40",
+            "del_qty": "40"
+        },
+        {
+            "material_no": "100023",
+            "description": "星光牛奶公司脫脂日式白桃味乳酪飲品 200ml",
+            "customer_code": "409597",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "40",
+            "del_qty": "40"
+        },
+        {
+            "material_no": "100023",
+            "description": "星光牛奶公司脫脂日式白桃味乳酪飲品 200ml",
+            "customer_code": "409597",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "21",
+            "del_qty": "21"
+        },
+        {
+            "material_no": "100023",
+            "description": "星光牛奶公司脫脂日式白桃味乳酪飲品 200ml",
+            "customer_code": "409597",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "24",
+            "del_qty": "24"
+        },
+        {
+            "material_no": "100019",
+            "description": "綠野鹽滷豆腐250g HK",
+            "customer_code": "431324",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "46",
+            "del_qty": "46"
+        },
+        {
+            "material_no": "100022",
+            "description": "綠野蒸煮滑豆腐350ml HK",
+            "customer_code": "120764",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "46",
+            "del_qty": "46"
+        },
+        {
+            "material_no": "100011",
+            "description": "星光牛奶公司脫脂乳酪飲品藍莓味200ml HK",
+            "customer_code": "387100",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "12",
+            "del_qty": "12"
+        },
+        {
+            "material_no": "100018",
+            "description": "星光牛奶公司純乳酪杯裝475g HK",
+            "customer_code": "120720",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "39",
+            "del_qty": "39"
+        }
+    ],
+    "total_no_of_items": "12",
+    "warehouse_information": {
+        "oc_or_dc_logistics": "",
+        "w_h_visa": "",
+        "load_weight": "",
+        "visa": ""
+    },
+    "transporter_information": {
+        "transporter": "",
+        "truck_no": "",
+        "container_no_seal_n": "",
+        "milk_crate_deposit": "",
+        "milk_crate_refund": "",
+        "visa": "",
+        "date_time": ""
+    },
+    "customer_visa": {
+        "customer_note": "",
+        "date_time": "",
+        "visa": ""
+    },
+    "company_note": ""
+}

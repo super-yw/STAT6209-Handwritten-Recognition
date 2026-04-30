@@ -1,0 +1,53 @@
+{
+    "po_no": "21069000023815",
+    "items": [
+        {
+            "seq_no": "1.",
+            "ref_no": "439356",
+            "desc_en": "HI-CALCIUM MILK / STARLAND D.F. / 236 ML",
+            "desc_zh": "高鈣牛奶 / 星光牛奶公司",
+            "case_pk": "CASE/1",
+            "barcode": "4891118100418",
+            "vendor_ref": "9131687",
+            "qty": "6",
+            "qty_breakdown": "(6+0)",
+            "price_str": "5.70 E"
+        },
+        {
+            "seq_no": "2.",
+            "ref_no": "606418",
+            "desc_en": "LITE SOYA MILK / GREENFIELD / 236 ML",
+            "desc_zh": "鮮低糖豆漿 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118433417",
+            "vendor_ref": "9131757",
+            "qty": "1",
+            "qty_breakdown": "(1+0)",
+            "price_str": "4.10 E"
+        },
+        {
+            "seq_no": "3.",
+            "ref_no": "473306",
+            "desc_en": "STRAW.L/F YOGHURT / STARLAND DAIRY F / 140 GM",
+            "desc_zh": "低脂士多啤梨乳酪 / 星光牛奶公司",
+            "case_pk": "CASE/1",
+            "barcode": "4891118281056",
+            "vendor_ref": "12195947",
+            "qty": "11",
+            "qty_breakdown": "(11+0)",
+            "price_str": "6.66 E"
+        },
+        {
+            "seq_no": "4.",
+            "ref_no": "606418",
+            "desc_en": "LITE SOYA MILK / GREENFIELD / 236 ML",
+            "desc_zh": "鮮低糖豆漿 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118433417",
+            "vendor_ref": "9131757",
+            "qty": "20",
+            "qty_breakdown": "(20+0)",
+            "price_str": "4.10 E"
+        }
+    ]
+}

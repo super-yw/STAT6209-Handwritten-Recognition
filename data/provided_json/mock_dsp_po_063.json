@@ -1,0 +1,101 @@
+{
+    "po_no": "21069000023863",
+    "items": [
+        {
+            "seq_no": "1.",
+            "ref_no": "564146",
+            "desc_en": "HARD BEANCURD / GREENFIELD / 340 GM",
+            "desc_zh": "硬豆腐 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118411729",
+            "vendor_ref": "9131782",
+            "qty": "17",
+            "qty_breakdown": "(17+0)",
+            "price_str": "7.67 E"
+        },
+        {
+            "seq_no": "2.",
+            "ref_no": "468785",
+            "desc_en": "NO ADDED SUGAR SOYA / GREENFIELD / 946 ML",
+            "desc_zh": "無添加糖鮮豆漿 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118047041",
+            "vendor_ref": "12506335",
+            "qty": "14",
+            "qty_breakdown": "(14+0)",
+            "price_str": "12.80 E"
+        },
+        {
+            "seq_no": "3.",
+            "ref_no": "564146",
+            "desc_en": "HARD BEANCURD / GREENFIELD / 340 GM",
+            "desc_zh": "硬豆腐 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118411729",
+            "vendor_ref": "9131782",
+            "qty": "13",
+            "qty_breakdown": "(13+0)",
+            "price_str": "7.67 E"
+        },
+        {
+            "seq_no": "4.",
+            "ref_no": "304352",
+            "desc_en": "PLASTIC CRATE DEP. / STARLAND D.F. / 1 EA",
+            "desc_zh": "膠箱按金 / 星光牛奶公司",
+            "case_pk": "EACH/1",
+            "barcode": "4891118667959",
+            "vendor_ref": "-",
+            "qty": "7",
+            "qty_breakdown": "(7+0)",
+            "price_str": "20.00 E"
+        },
+        {
+            "seq_no": "5.",
+            "ref_no": "468785",
+            "desc_en": "NO ADDED SUGAR SOYA / GREENFIELD / 946 ML",
+            "desc_zh": "無添加糖鮮豆漿 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118047041",
+            "vendor_ref": "12506335",
+            "qty": "20",
+            "qty_breakdown": "(20+0)",
+            "price_str": "12.80 E"
+        },
+        {
+            "seq_no": "6.",
+            "ref_no": "191676",
+            "desc_en": "SOYA MILK / GREENFIELD / 946 ML",
+            "desc_zh": "鮮豆漿 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118430478",
+            "vendor_ref": "9131773",
+            "qty": "3",
+            "qty_breakdown": "(3+0)",
+            "price_str": "12.80 E"
+        },
+        {
+            "seq_no": "7.",
+            "ref_no": "191676",
+            "desc_en": "SOYA MILK / GREENFIELD / 946 ML",
+            "desc_zh": "鮮豆漿 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118430478",
+            "vendor_ref": "9131773",
+            "qty": "17",
+            "qty_breakdown": "(17+0)",
+            "price_str": "12.80 E"
+        },
+        {
+            "seq_no": "8.",
+            "ref_no": "304352",
+            "desc_en": "PLASTIC CRATE DEP. / STARLAND D.F. / 1 EA",
+            "desc_zh": "膠箱按金 / 星光牛奶公司",
+            "case_pk": "EACH/1",
+            "barcode": "4891118667959",
+            "vendor_ref": "-",
+            "qty": "15",
+            "qty_breakdown": "(15+0)",
+            "price_str": "20.00 E"
+        }
+    ]
+}

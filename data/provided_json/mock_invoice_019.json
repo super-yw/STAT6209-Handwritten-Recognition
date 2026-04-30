@@ -1,0 +1,50 @@
+{
+    "invoice_no": "4082272581",
+    "items": [
+        {
+            "item_code": "9131690",
+            "desc_en": "STARLAND CLCN HiCa Milk 946ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 946ml HK",
+            "case_factor": "20",
+            "sold_qty": "5",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "5",
+            "del_case": "0",
+            "del_unit": "5",
+            "unit_price": "13.58",
+            "total_amount": "67.90",
+            "cust_item_code": "6843"
+        },
+        {
+            "item_code": "8827361",
+            "desc_en": "GREENFIELD Hard Tofu 340g HK",
+            "desc_zh": "綠野硬豆腐 340g HK",
+            "case_factor": "12",
+            "sold_qty": "9",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "9",
+            "del_case": "0",
+            "del_unit": "9",
+            "unit_price": "6.50",
+            "total_amount": "58.50",
+            "cust_item_code": "7653"
+        },
+        {
+            "item_code": "9131652",
+            "desc_en": "STARLAND Fresh Milk 236ml HK",
+            "desc_zh": "星光牛奶公司鮮奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "3",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "3",
+            "del_case": "0",
+            "del_unit": "3",
+            "unit_price": "5.81",
+            "total_amount": "17.43",
+            "cust_item_code": "3400"
+        }
+    ]
+}

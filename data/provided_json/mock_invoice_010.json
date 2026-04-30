@@ -1,0 +1,35 @@
+{
+    "invoice_no": "4082272572",
+    "items": [
+        {
+            "item_code": "9131687",
+            "desc_en": "STARLAND CLCN HiCa Milk 236ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 236ml HK",
+            "case_factor": "60",
+            "sold_qty": "13",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "13",
+            "del_case": "0",
+            "del_unit": "13",
+            "unit_price": "3.87",
+            "total_amount": "50.31",
+            "cust_item_code": "8209"
+        },
+        {
+            "item_code": "12452972",
+            "desc_en": "NDF Fat Free DrkYgt Jpns Wht Peh 200mlHK",
+            "desc_zh": "星光牛奶公司脫脂日式白桃味乳酪飲品 200ml HK",
+            "case_factor": "60",
+            "sold_qty": "9",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "9",
+            "del_case": "0",
+            "del_unit": "9",
+            "unit_price": "5.41",
+            "total_amount": "48.69",
+            "cust_item_code": "1017"
+        }
+    ]
+}

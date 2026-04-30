@@ -1,0 +1,35 @@
+{
+    "invoice_no": "4082272652",
+    "items": [
+        {
+            "item_code": "9131771",
+            "desc_en": "GREENFIELD Soya Milk 236ml HK",
+            "desc_zh": "綠野鮮豆漿236ml HK",
+            "case_factor": "60",
+            "sold_qty": "6",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "6",
+            "del_case": "0",
+            "del_unit": "6",
+            "unit_price": "3.73",
+            "total_amount": "22.38",
+            "cust_item_code": "7647"
+        },
+        {
+            "item_code": "8827362",
+            "desc_en": "GREENFIELD Soft Tofu 250g HK",
+            "desc_zh": "綠野滑豆腐 250g HK",
+            "case_factor": "12",
+            "sold_qty": "20",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "20",
+            "del_case": "0",
+            "del_unit": "20",
+            "unit_price": "5.20",
+            "total_amount": "104.00",
+            "cust_item_code": "2036"
+        }
+    ]
+}

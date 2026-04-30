@@ -1,0 +1,29 @@
+{
+    "po_no": "21069000023890",
+    "items": [
+        {
+            "seq_no": "1.",
+            "ref_no": "468785",
+            "desc_en": "NO ADDED SUGAR SOYA / GREENFIELD / 946 ML",
+            "desc_zh": "無添加糖鮮豆漿 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118047041",
+            "vendor_ref": "12506335",
+            "qty": "15",
+            "qty_breakdown": "(15+0)",
+            "price_str": "12.80 E"
+        },
+        {
+            "seq_no": "2.",
+            "ref_no": "606418",
+            "desc_en": "LITE SOYA MILK / GREENFIELD / 236 ML",
+            "desc_zh": "鮮低糖豆漿 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118433417",
+            "vendor_ref": "9131757",
+            "qty": "14",
+            "qty_breakdown": "(14+0)",
+            "price_str": "4.10 E"
+        }
+    ]
+}

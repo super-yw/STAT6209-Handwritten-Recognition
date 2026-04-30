@@ -1,0 +1,80 @@
+{
+    "invoice_no": "4082272623",
+    "items": [
+        {
+            "item_code": "8827362",
+            "desc_en": "GREENFIELD Soft Tofu 250g HK",
+            "desc_zh": "綠野滑豆腐 250g HK",
+            "case_factor": "12",
+            "sold_qty": "8",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "8",
+            "del_case": "0",
+            "del_unit": "8",
+            "unit_price": "5.20",
+            "total_amount": "41.60",
+            "cust_item_code": "3452"
+        },
+        {
+            "item_code": "9131687",
+            "desc_en": "STARLAND CLCN HiCa Milk 236ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 236ml HK",
+            "case_factor": "60",
+            "sold_qty": "4",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "4",
+            "del_case": "0",
+            "del_unit": "4",
+            "unit_price": "3.87",
+            "total_amount": "15.48",
+            "cust_item_code": "7746"
+        },
+        {
+            "item_code": "12452972",
+            "desc_en": "NDF Fat Free DrkYgt Jpns Wht Peh 200mlHK",
+            "desc_zh": "星光牛奶公司脫脂日式白桃味乳酪飲品 200ml HK",
+            "case_factor": "60",
+            "sold_qty": "13",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "13",
+            "del_case": "0",
+            "del_unit": "13",
+            "unit_price": "5.41",
+            "total_amount": "70.33",
+            "cust_item_code": "5943"
+        },
+        {
+            "item_code": "8827362",
+            "desc_en": "GREENFIELD Soft Tofu 250g HK",
+            "desc_zh": "綠野滑豆腐 250g HK",
+            "case_factor": "12",
+            "sold_qty": "4",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "4",
+            "del_case": "0",
+            "del_unit": "4",
+            "unit_price": "5.20",
+            "total_amount": "20.80",
+            "cust_item_code": "4493"
+        },
+        {
+            "item_code": "9131771",
+            "desc_en": "GREENFIELD Soya Milk 236ml HK",
+            "desc_zh": "綠野鮮豆漿236ml HK",
+            "case_factor": "60",
+            "sold_qty": "17",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "17",
+            "del_case": "0",
+            "del_unit": "17",
+            "unit_price": "3.73",
+            "total_amount": "63.41",
+            "cust_item_code": "6220"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "invoice_no": "4082272613",
+    "items": [
+        {
+            "item_code": "12228811",
+            "desc_en": "NDF Fat Free Drk Ygt Mngo App 200ml HK",
+            "desc_zh": "星光牛奶公司脫脂乳酪飲品芒果蘋果味200ml HK",
+            "case_factor": "60",
+            "sold_qty": "7",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "7",
+            "del_case": "0",
+            "del_unit": "7",
+            "unit_price": "5.41",
+            "total_amount": "37.87",
+            "cust_item_code": "6279"
+        },
+        {
+            "item_code": "12228811",
+            "desc_en": "NDF Fat Free Drk Ygt Mngo App 200ml HK",
+            "desc_zh": "星光牛奶公司脫脂乳酪飲品芒果蘋果味200ml HK",
+            "case_factor": "60",
+            "sold_qty": "6",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "6",
+            "del_case": "0",
+            "del_unit": "6",
+            "unit_price": "5.41",
+            "total_amount": "32.46",
+            "cust_item_code": "9265"
+        },
+        {
+            "item_code": "12228811",
+            "desc_en": "NDF Fat Free Drk Ygt Mngo App 200ml HK",
+            "desc_zh": "星光牛奶公司脫脂乳酪飲品芒果蘋果味200ml HK",
+            "case_factor": "60",
+            "sold_qty": "19",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "19",
+            "del_case": "0",
+            "del_unit": "19",
+            "unit_price": "5.41",
+            "total_amount": "102.79",
+            "cust_item_code": "8810"
+        }
+    ]
+}

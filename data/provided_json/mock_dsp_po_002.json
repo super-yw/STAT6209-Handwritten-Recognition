@@ -1,0 +1,29 @@
+{
+    "po_no": "21069000023802",
+    "items": [
+        {
+            "seq_no": "1.",
+            "ref_no": "564146",
+            "desc_en": "HARD BEANCURD / GREENFIELD / 340 GM",
+            "desc_zh": "硬豆腐 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118411729",
+            "vendor_ref": "9131782",
+            "qty": "2",
+            "qty_breakdown": "(2+0)",
+            "price_str": "7.67 E"
+        },
+        {
+            "seq_no": "2.",
+            "ref_no": "304352",
+            "desc_en": "PLASTIC CRATE DEP. / STARLAND D.F. / 1 EA",
+            "desc_zh": "膠箱按金 / 星光牛奶公司",
+            "case_pk": "EACH/1",
+            "barcode": "4891118667959",
+            "vendor_ref": "-",
+            "qty": "16",
+            "qty_breakdown": "(16+0)",
+            "price_str": "20.00 E"
+        }
+    ]
+}
