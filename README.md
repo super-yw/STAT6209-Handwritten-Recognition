@@ -1,7 +1,7 @@
 # Handwritten Modification Recognition on Invoices
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue.svg">
+  <img src="https://img.shields.io/badge/Python-3.11+-blue.svg">
   <img src="https://img.shields.io/badge/Model-Qwen3--VL--4B--Instruct-green.svg">
   <img src="https://img.shields.io/badge/Fine--Tuning-LoRA-orange.svg">
   <img src="https://img.shields.io/badge/Status-Research%20Project-success.svg">
