@@ -128,10 +128,10 @@ The default model path can be modified in:
 config.py
 ```
 
-Example:
+The default model path:
 
 ```python
-MODEL_PATH = "./Qwen3-VL-4B-Instruct"
+MODEL_DIR = "./Qwen3-VL-4B-Instruct"
 ```
 
 ---
