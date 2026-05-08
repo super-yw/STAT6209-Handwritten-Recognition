@@ -57,7 +57,7 @@ The inference pipeline consists of:
 ├── LoRA/                      # LoRA fine-tuned weights
 ├── Qwen3-VL-4B-Instruct/      # Base model directory
 ├── data/                      # Dataset and generated cropping grid files
-├── graph/                     # LangGraph-based Pipeline
+├── graph/                     # LangGraph-based pipeline
 ├── prompts/                   # Prompts for pre-processing
 ├── utils/                     # Utility functions
 ├── config.py                  # Global configuration
@@ -65,7 +65,8 @@ The inference pipeline consists of:
 ├── generate_grid.py           # Cropping grid generation
 ├── main.py                    # Main inference pipeline
 ├── model_loader.py            # Model loading utilities
-├── Inference_Pipeline.png     # Graphical representation for the inference pipeline
+├── requirements.txt           # Python dependencies
+├── Inference_Pipeline.png     # Graphical representation of the inference pipeline
 ├── README.md
 └── LICENSE
 ```
@@ -76,7 +77,7 @@ The inference pipeline consists of:
 
 ### Requirements
 
-- Python 3.10+
+- Python 3.11+
 - CUDA-enabled GPU recommended
 
 ### Install dependencies
@@ -88,7 +89,7 @@ pip install -r requirements.txt
 If `requirements.txt` is unavailable:
 
 ```bash
-pip install torch transformers peft accelerate pillow opencv-python
+pip install huggingface_hub==1.10.2 langgraph==1.1.10 numpy==2.4.4 opencv_python==4.10.0.84 peft==0.19.1 Pillow==12.2.0 torch==2.6.0 transformers==5.5.4
 ```
 
 ---
@@ -100,23 +101,6 @@ pip install torch transformers peft accelerate pillow opencv-python
 ```bash
 python main.py
 ```
-
-### Example
-
-```bash
-python main.py \
-    --image data/sample_invoice.png \
-    --json data/sample_invoice.json
-```
-
-The pipeline will:
-
-- detect handwritten modifications
-- locate modified cells
-- recognize handwritten digits
-- update the original JSON content
-
----
 
 ## Model Download
 
@@ -171,7 +155,7 @@ This script:
 Generated grids are stored in:
 
 ```text
-graph/
+data/segments/
 ```
 
 ---
@@ -182,12 +166,8 @@ The `data/` directory contains:
 
 - invoice images
 - original invoice JSON files
-- cropped local patches
-- labels
-- fold split information
-
-The cropped local patches are used for LoRA fine-tuning in the local digit recognition module.
-
+- cropping grids
+- 
 ---
 
 ## LoRA Fine-tuning
