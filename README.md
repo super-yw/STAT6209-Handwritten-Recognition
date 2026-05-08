@@ -46,12 +46,9 @@ The inference pipeline consists of:
 6. Post-processing
 
 <p align="center">
-  <img src="assets/pipeline.png" width="800">
+  <img src="Inference_Pipeline.png" width="800">
 </p>
 
-> Replace `assets/pipeline.png` with your own pipeline figure.
-
----
 
 ## Repository Structure
 
@@ -59,15 +56,16 @@ The inference pipeline consists of:
 .
 ├── LoRA/                      # LoRA fine-tuned weights
 ├── Qwen3-VL-4B-Instruct/      # Base model directory
-├── data/                      # Dataset and generated files
-├── graph/                     # Generated cropping grids
-├── prompts/                   # Prompt templates
+├── data/                      # Dataset and generated cropping grid files
+├── graph/                     # LangGraph-based Pipeline
+├── prompts/                   # Prompts for pre-processing
 ├── utils/                     # Utility functions
 ├── config.py                  # Global configuration
 ├── download_models.py         # Model download script
 ├── generate_grid.py           # Cropping grid generation
 ├── main.py                    # Main inference pipeline
 ├── model_loader.py            # Model loading utilities
+├── Inference_Pipeline.png     # Graphical representation for the inference pipeline
 ├── README.md
 └── LICENSE
 ```
