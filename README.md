@@ -60,6 +60,7 @@ The inference pipeline consists of:
 ├── graph/                     # LangGraph-based pipeline
 ├── prompts/                   # Prompts for pre-processing
 ├── utils/                     # Utility functions
+├── evaluation/                # LoRA 5fold cross-validation
 ├── config.py                  # Global configuration
 ├── download_models.py         # Model download script
 ├── generate_grid.py           # Cropping grid generation
@@ -167,7 +168,6 @@ The `data/` directory contains:
 - invoice images
 - original invoice JSON files
 - cropping grids
-- 
 ---
 
 ## LoRA Fine-tuning
