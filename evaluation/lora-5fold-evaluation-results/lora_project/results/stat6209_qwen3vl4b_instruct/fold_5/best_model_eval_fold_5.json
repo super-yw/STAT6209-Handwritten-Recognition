@@ -1,0 +1,162 @@
+{
+  "fold": 5,
+  "split": "eval",
+  "model_label": "best_adapter_model",
+  "adapter_path": "/data/Work/Quark/lora_outputs/stat6209_qwen3vl4b_instruct/fold_5",
+  "num_samples": 15,
+  "num_correct": 14,
+  "exact_match": 0.9333333333333333,
+  "runtime": 1.2734861373901367,
+  "samples_per_second": 11.778691231567525,
+  "by_category": {
+    "dn": {
+      "num_samples": 4,
+      "num_correct": 4,
+      "exact_match": 1.0
+    },
+    "dsp": {
+      "num_samples": 4,
+      "num_correct": 4,
+      "exact_match": 1.0
+    },
+    "inv": {
+      "num_samples": 7,
+      "num_correct": 6,
+      "exact_match": 0.8571428571428571
+    }
+  },
+  "mismatches_by_category": {
+    "inv": [
+      {
+        "file_name": "Invoice_marked_invoice_mock_invoice_po_071_png_1_4.png",
+        "category": "inv",
+        "source_no": "071",
+        "target": "9",
+        "prediction": "0",
+        "correct": false
+      }
+    ]
+  },
+  "predictions": [
+    {
+      "file_name": "Invoice_marked_dsp_mock_dsp_po_009_png_2_4.png",
+      "category": "dsp",
+      "source_no": "009",
+      "target": "9",
+      "prediction": "9",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_dsp_mock_dsp_po_012_png_0_4.png",
+      "category": "dsp",
+      "source_no": "012",
+      "target": "5",
+      "prediction": "5",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_dsp_mock_dsp_po_012_png_0_5.png",
+      "category": "dsp",
+      "source_no": "012",
+      "target": "20.00",
+      "prediction": "20.00",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_dsp_mock_dsp_po_073_png_3_4.png",
+      "category": "dsp",
+      "source_no": "073",
+      "target": "10",
+      "prediction": "10",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_011_png_0_3.png",
+      "category": "inv",
+      "source_no": "011",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_011_png_0_4.png",
+      "category": "inv",
+      "source_no": "011",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_011_png_0_5.png",
+      "category": "inv",
+      "source_no": "011",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_071_png_1_4.png",
+      "category": "inv",
+      "source_no": "071",
+      "target": "9",
+      "prediction": "0",
+      "correct": false
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_071_png_1_5.png",
+      "category": "inv",
+      "source_no": "071",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_071_png_1_6.png",
+      "category": "inv",
+      "source_no": "071",
+      "target": "9",
+      "prediction": "9",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_071_png_1_7.png",
+      "category": "inv",
+      "source_no": "071",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "dn_top_Invoice_marked_dn_mock_dn_po_017_png_png_0_4.png",
+      "category": "dn",
+      "source_no": "017",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "dn_top_Invoice_marked_dn_mock_dn_po_017_png_png_2_4.png",
+      "category": "dn",
+      "source_no": "017",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "dn_top_Invoice_marked_dn_mock_dn_po_029_png_png_0_4.png",
+      "category": "dn",
+      "source_no": "029",
+      "target": "10",
+      "prediction": "10",
+      "correct": true
+    },
+    {
+      "file_name": "dn_top_Invoice_marked_dn_mock_dn_po_029_png_png_0_5.png",
+      "category": "dn",
+      "source_no": "029",
+      "target": "10",
+      "prediction": "10",
+      "correct": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stat6209-qwen3vl-lora"
+version = "0.1.0"
+description = "LoRA fine-tuning utilities for handwritten number recognition with Qwen3-VL-4B-Instruct."
+requires-python = ">=3.10"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

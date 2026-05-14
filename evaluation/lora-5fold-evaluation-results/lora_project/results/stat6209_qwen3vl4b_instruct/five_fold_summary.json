@@ -1,0 +1,86 @@
+{
+  "output_root": "/data/Work/Quark/lora_outputs/stat6209_qwen3vl4b_instruct",
+  "base_model": {
+    "num_folds_found": 5,
+    "mean_exact_match": 0.7027272727272728,
+    "folds": [
+      {
+        "fold": 1,
+        "exact_match": 0.8636363636363636,
+        "num_samples": 22,
+        "report_path": "/data/Work/Quark/lora_outputs/stat6209_qwen3vl4b_instruct/fold_1/base_model_eval_fold_1.json"
+      },
+      {
+        "fold": 2,
+        "exact_match": 0.8,
+        "num_samples": 20,
+        "report_path": "/data/Work/Quark/lora_outputs/stat6209_qwen3vl4b_instruct/fold_2/base_model_eval_fold_2.json"
+      },
+      {
+        "fold": 3,
+        "exact_match": 0.6,
+        "num_samples": 25,
+        "report_path": "/data/Work/Quark/lora_outputs/stat6209_qwen3vl4b_instruct/fold_3/base_model_eval_fold_3.json"
+      },
+      {
+        "fold": 4,
+        "exact_match": 0.65,
+        "num_samples": 20,
+        "report_path": "/data/Work/Quark/lora_outputs/stat6209_qwen3vl4b_instruct/fold_4/base_model_eval_fold_4.json"
+      },
+      {
+        "fold": 5,
+        "exact_match": 0.6,
+        "num_samples": 15,
+        "report_path": "/data/Work/Quark/lora_outputs/stat6209_qwen3vl4b_instruct/fold_5/base_model_eval_fold_5.json"
+      }
+    ],
+    "mean_exact_match_by_category": {
+      "dn": 0.5,
+      "dsp": 0.7071428571428571,
+      "inv": 0.751941391941392
+    }
+  },
+  "adapter_model": {
+    "num_folds_found": 5,
+    "mean_exact_match": 0.9695757575757575,
+    "folds": [
+      {
+        "fold": 1,
+        "exact_match": 0.9545454545454546,
+        "num_samples": 22,
+        "report_path": "/data/Work/Quark/lora_outputs/stat6209_qwen3vl4b_instruct/fold_1/best_model_eval_fold_1.json"
+      },
+      {
+        "fold": 2,
+        "exact_match": 1.0,
+        "num_samples": 20,
+        "report_path": "/data/Work/Quark/lora_outputs/stat6209_qwen3vl4b_instruct/fold_2/best_model_eval_fold_2.json"
+      },
+      {
+        "fold": 3,
+        "exact_match": 0.96,
+        "num_samples": 25,
+        "report_path": "/data/Work/Quark/lora_outputs/stat6209_qwen3vl4b_instruct/fold_3/best_model_eval_fold_3.json"
+      },
+      {
+        "fold": 4,
+        "exact_match": 1.0,
+        "num_samples": 20,
+        "report_path": "/data/Work/Quark/lora_outputs/stat6209_qwen3vl4b_instruct/fold_4/best_model_eval_fold_4.json"
+      },
+      {
+        "fold": 5,
+        "exact_match": 0.9333333333333333,
+        "num_samples": 15,
+        "report_path": "/data/Work/Quark/lora_outputs/stat6209_qwen3vl4b_instruct/fold_5/best_model_eval_fold_5.json"
+      }
+    ],
+    "mean_exact_match_by_category": {
+      "dn": 1.0,
+      "dsp": 0.975,
+      "inv": 0.9571428571428572
+    }
+  },
+  "adapter_minus_base_mean_exact_match": 0.2668484848484848
+}

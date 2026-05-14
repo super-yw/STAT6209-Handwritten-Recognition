@@ -1,0 +1,318 @@
+{
+  "fold": 3,
+  "split": "eval",
+  "model_label": "base_model",
+  "adapter_path": null,
+  "num_samples": 25,
+  "num_correct": 15,
+  "exact_match": 0.6,
+  "runtime": 14.420061111450195,
+  "samples_per_second": 1.7336958426721816,
+  "by_category": {
+    "dn": {
+      "num_samples": 4,
+      "num_correct": 3,
+      "exact_match": 0.75
+    },
+    "dsp": {
+      "num_samples": 7,
+      "num_correct": 3,
+      "exact_match": 0.42857142857142855
+    },
+    "inv": {
+      "num_samples": 14,
+      "num_correct": 9,
+      "exact_match": 0.6428571428571429
+    }
+  },
+  "mismatches_by_category": {
+    "dn": [
+      {
+        "file_name": "dn_top_Invoice_marked_dn_mock_dn_po_073_png_png_2_4.png",
+        "category": "dn",
+        "source_no": "073",
+        "target": "45",
+        "prediction": "49",
+        "correct": false
+      }
+    ],
+    "dsp": [
+      {
+        "file_name": "Invoice_marked_dsp_mock_dsp_po_020_png_5_4.png",
+        "category": "dsp",
+        "source_no": "020",
+        "target": "9",
+        "prediction": "12",
+        "correct": false
+      },
+      {
+        "file_name": "Invoice_marked_dsp_mock_dsp_po_081_png_0_4.png",
+        "category": "dsp",
+        "source_no": "081",
+        "target": "0",
+        "prediction": "12",
+        "correct": false
+      },
+      {
+        "file_name": "Invoice_marked_dsp_mock_dsp_po_081_png_1_4.png",
+        "category": "dsp",
+        "source_no": "081",
+        "target": "0",
+        "prediction": "14",
+        "correct": false
+      },
+      {
+        "file_name": "Invoice_marked_dsp_mock_dsp_po_081_png_2_4.png",
+        "category": "dsp",
+        "source_no": "081",
+        "target": "0",
+        "prediction": "8",
+        "correct": false
+      }
+    ],
+    "inv": [
+      {
+        "file_name": "Invoice_marked_invoice_mock_invoice_po_025_png_0_3.png",
+        "category": "inv",
+        "source_no": "025",
+        "target": "0",
+        "prediction": "10",
+        "correct": false
+      },
+      {
+        "file_name": "Invoice_marked_invoice_mock_invoice_po_041_png_0_7.png",
+        "category": "inv",
+        "source_no": "041",
+        "target": "0",
+        "prediction": "2704",
+        "correct": false
+      },
+      {
+        "file_name": "Invoice_marked_invoice_mock_invoice_po_095_png_0_3.png",
+        "category": "inv",
+        "source_no": "095",
+        "target": "1",
+        "prediction": "0",
+        "correct": false
+      },
+      {
+        "file_name": "Invoice_marked_invoice_mock_invoice_po_095_png_0_8.png",
+        "category": "inv",
+        "source_no": "095",
+        "target": "1",
+        "prediction": "0",
+        "correct": false
+      },
+      {
+        "file_name": "Invoice_marked_invoice_mock_invoice_po_095_png_3_6.png",
+        "category": "inv",
+        "source_no": "095",
+        "target": "0",
+        "prediction": "12",
+        "correct": false
+      }
+    ]
+  },
+  "predictions": [
+    {
+      "file_name": "Invoice_marked_dsp_mock_dsp_po_020_png_5_4.png",
+      "category": "dsp",
+      "source_no": "020",
+      "target": "9",
+      "prediction": "12",
+      "correct": false
+    },
+    {
+      "file_name": "Invoice_marked_dsp_mock_dsp_po_044_png_3_4.png",
+      "category": "dsp",
+      "source_no": "044",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_dsp_mock_dsp_po_044_png_4_4.png",
+      "category": "dsp",
+      "source_no": "044",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_dsp_mock_dsp_po_052_png_4_4.png",
+      "category": "dsp",
+      "source_no": "052",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_dsp_mock_dsp_po_081_png_0_4.png",
+      "category": "dsp",
+      "source_no": "081",
+      "target": "0",
+      "prediction": "12",
+      "correct": false
+    },
+    {
+      "file_name": "Invoice_marked_dsp_mock_dsp_po_081_png_1_4.png",
+      "category": "dsp",
+      "source_no": "081",
+      "target": "0",
+      "prediction": "14",
+      "correct": false
+    },
+    {
+      "file_name": "Invoice_marked_dsp_mock_dsp_po_081_png_2_4.png",
+      "category": "dsp",
+      "source_no": "081",
+      "target": "0",
+      "prediction": "8",
+      "correct": false
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_025_png_0_3.png",
+      "category": "inv",
+      "source_no": "025",
+      "target": "0",
+      "prediction": "10",
+      "correct": false
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_025_png_0_4.png",
+      "category": "inv",
+      "source_no": "025",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_041_png_0_3.png",
+      "category": "inv",
+      "source_no": "041",
+      "target": "2",
+      "prediction": "2",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_041_png_0_4.png",
+      "category": "inv",
+      "source_no": "041",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_041_png_0_5.png",
+      "category": "inv",
+      "source_no": "041",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_041_png_0_6.png",
+      "category": "inv",
+      "source_no": "041",
+      "target": "2",
+      "prediction": "2",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_041_png_0_7.png",
+      "category": "inv",
+      "source_no": "041",
+      "target": "0",
+      "prediction": "2704",
+      "correct": false
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_095_png_0_3.png",
+      "category": "inv",
+      "source_no": "095",
+      "target": "1",
+      "prediction": "0",
+      "correct": false
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_095_png_0_4.png",
+      "category": "inv",
+      "source_no": "095",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_095_png_0_5.png",
+      "category": "inv",
+      "source_no": "095",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_095_png_0_6.png",
+      "category": "inv",
+      "source_no": "095",
+      "target": "1",
+      "prediction": "1",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_095_png_0_7.png",
+      "category": "inv",
+      "source_no": "095",
+      "target": "0",
+      "prediction": "0",
+      "correct": true
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_095_png_0_8.png",
+      "category": "inv",
+      "source_no": "095",
+      "target": "1",
+      "prediction": "0",
+      "correct": false
+    },
+    {
+      "file_name": "Invoice_marked_invoice_mock_invoice_po_095_png_3_6.png",
+      "category": "inv",
+      "source_no": "095",
+      "target": "0",
+      "prediction": "12",
+      "correct": false
+    },
+    {
+      "file_name": "dn_top_Invoice_marked_dn_mock_dn_po_013_png_png_9_4.png",
+      "category": "dn",
+      "source_no": "013",
+      "target": "4",
+      "prediction": "4",
+      "correct": true
+    },
+    {
+      "file_name": "dn_top_Invoice_marked_dn_mock_dn_po_013_png_png_9_5.png",
+      "category": "dn",
+      "source_no": "013",
+      "target": "4",
+      "prediction": "4",
+      "correct": true
+    },
+    {
+      "file_name": "dn_top_Invoice_marked_dn_mock_dn_po_073_png_png_2_4.png",
+      "category": "dn",
+      "source_no": "073",
+      "target": "45",
+      "prediction": "49",
+      "correct": false
+    },
+    {
+      "file_name": "dn_top_Invoice_marked_dn_mock_dn_po_073_png_png_2_5.png",
+      "category": "dn",
+      "source_no": "073",
+      "target": "45",
+      "prediction": "45",
+      "correct": true
+    }
+  ]
+}

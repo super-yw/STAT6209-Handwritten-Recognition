@@ -1,0 +1,241 @@
+{
+  "text_prompt": "The image may contain handwritten numbers and printed numbers.\n\nYour task:\n1. If there is any handwritten number, return the handwritten number.\n2. If there is no handwritten number, return the most prominent printed number.\n3. If there is a crossed-out mark (e.g., \"x\", \"/\", \"\\\") but no handwritten number, return 0.\n\nOutput requirements:\n- Return a number only.\n- Do not include any explanation.\n- Do not return symbols or expressions (e.g., \"x\", \"/\", \"\\\", \"(1+2)\").",
+  "image_count": 561,
+  "label_row_count": 537,
+  "clean_record_count": 537,
+  "image_only_count": 24,
+  "image_only_files": [
+    "Invoice_marked_dsp_mock_dsp_po_010_png_3_4.png",
+    "Invoice_marked_dsp_mock_dsp_po_043_png_0_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_002_png_png_0_5.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_002_png_png_1_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_008_png_png_3_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_008_png_png_6_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_008_png_png_7_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_011_png_png_5_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_012_png_png_4_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_017_png_png_1_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_018_png_png_2_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_023_png_png_7_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_027_png_png_7_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_032_png_png_2_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_035_png_png_3_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_040_png_png_9_5.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_047_png_png_4_5.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_048_png_png_3_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_051_png_png_5_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_052_png_png_4_5.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_056_png_png_11_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_070_png_png_9_4.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_070_png_png_9_5.png",
+    "dn_top_Invoice_marked_dn_mock_dn_po_072_png_png_1_5.png"
+  ],
+  "label_only_count": 0,
+  "label_only_files": [],
+  "complete_dataset_counts_by_category": {
+    "dn": 105,
+    "dsp": 178,
+    "inv": 254
+  },
+  "kfold_missing_source_nos_in_complete_dataset": {
+    "dn": [
+      "005",
+      "009",
+      "021",
+      "025",
+      "033",
+      "037",
+      "041",
+      "045",
+      "049",
+      "053",
+      "061",
+      "065",
+      "069",
+      "077"
+    ],
+    "dsp": [],
+    "inv": [
+      "021",
+      "061",
+      "075",
+      "085"
+    ]
+  },
+  "folds": [
+    {
+      "fold": 1,
+      "excluded_source_nos": {
+        "dn": [
+          "009",
+          "057",
+          "049",
+          "025"
+        ],
+        "dsp": [
+          "036",
+          "028",
+          "089",
+          "033"
+        ],
+        "inv": [
+          "031",
+          "051",
+          "035",
+          "001"
+        ]
+      },
+      "eval_record_count": 22,
+      "eval_record_count_by_category": {
+        "dn": 2,
+        "dsp": 8,
+        "inv": 12
+      },
+      "train_record_count": 515,
+      "train_record_count_by_category": {
+        "dn": 103,
+        "dsp": 170,
+        "inv": 242
+      }
+    },
+    {
+      "fold": 2,
+      "excluded_source_nos": {
+        "dn": [
+          "053",
+          "005",
+          "041",
+          "021"
+        ],
+        "dsp": [
+          "041",
+          "025",
+          "001",
+          "017"
+        ],
+        "inv": [
+          "055",
+          "065",
+          "015",
+          "091"
+        ]
+      },
+      "eval_record_count": 20,
+      "eval_record_count_by_category": {
+        "dn": 0,
+        "dsp": 7,
+        "inv": 13
+      },
+      "train_record_count": 517,
+      "train_record_count_by_category": {
+        "dn": 105,
+        "dsp": 171,
+        "inv": 241
+      }
+    },
+    {
+      "fold": 3,
+      "excluded_source_nos": {
+        "dn": [
+          "073",
+          "061",
+          "045",
+          "013"
+        ],
+        "dsp": [
+          "020",
+          "081",
+          "052",
+          "044"
+        ],
+        "inv": [
+          "041",
+          "075",
+          "095",
+          "025"
+        ]
+      },
+      "eval_record_count": 25,
+      "eval_record_count_by_category": {
+        "dn": 4,
+        "dsp": 7,
+        "inv": 14
+      },
+      "train_record_count": 512,
+      "train_record_count_by_category": {
+        "dn": 101,
+        "dsp": 171,
+        "inv": 240
+      }
+    },
+    {
+      "fold": 4,
+      "excluded_source_nos": {
+        "dn": [
+          "077",
+          "001",
+          "065",
+          "033"
+        ],
+        "dsp": [
+          "097",
+          "057",
+          "065",
+          "049"
+        ],
+        "inv": [
+          "005",
+          "081",
+          "045",
+          "085"
+        ]
+      },
+      "eval_record_count": 20,
+      "eval_record_count_by_category": {
+        "dn": 2,
+        "dsp": 8,
+        "inv": 10
+      },
+      "train_record_count": 517,
+      "train_record_count_by_category": {
+        "dn": 103,
+        "dsp": 170,
+        "inv": 244
+      }
+    },
+    {
+      "fold": 5,
+      "excluded_source_nos": {
+        "dn": [
+          "029",
+          "037",
+          "069",
+          "017"
+        ],
+        "dsp": [
+          "073",
+          "012",
+          "009"
+        ],
+        "inv": [
+          "021",
+          "061",
+          "011",
+          "071"
+        ]
+      },
+      "eval_record_count": 15,
+      "eval_record_count_by_category": {
+        "dn": 4,
+        "dsp": 4,
+        "inv": 7
+      },
+      "train_record_count": 522,
+      "train_record_count_by_category": {
+        "dn": 101,
+        "dsp": 174,
+        "inv": 247
+      }
+    }
+  ]
+}
