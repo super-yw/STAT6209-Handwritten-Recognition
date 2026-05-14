@@ -1,0 +1,17 @@
+{
+    "po_no": "21069000023801",
+    "items": [
+        {
+            "seq_no": "1.",
+            "ref_no": "473298",
+            "desc_en": "MANGO L/F YOGHURT / STARLAND DAIRY F / 140 GM",
+            "desc_zh": "低脂芒果乳酪 / 星光牛奶公司",
+            "case_pk": "CASE/1",
+            "barcode": "4891118282053",
+            "vendor_ref": "12195948",
+            "qty": "13",
+            "qty_breakdown": "(13+0)",
+            "price_str": "6.66 E"
+        }
+    ]
+}

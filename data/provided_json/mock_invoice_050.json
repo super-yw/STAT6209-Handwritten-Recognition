@@ -1,0 +1,35 @@
+{
+    "invoice_no": "4082272612",
+    "items": [
+        {
+            "item_code": "9131771",
+            "desc_en": "GREENFIELD Soya Milk 236ml HK",
+            "desc_zh": "綠野鮮豆漿236ml HK",
+            "case_factor": "60",
+            "sold_qty": "4",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "4",
+            "del_case": "0",
+            "del_unit": "4",
+            "unit_price": "3.73",
+            "total_amount": "14.92",
+            "cust_item_code": "8376"
+        },
+        {
+            "item_code": "9131687",
+            "desc_en": "STARLAND CLCN HiCa Milk 236ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 236ml HK",
+            "case_factor": "60",
+            "sold_qty": "12",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "12",
+            "del_case": "0",
+            "del_unit": "12",
+            "unit_price": "3.87",
+            "total_amount": "46.44",
+            "cust_item_code": "5346"
+        }
+    ]
+}

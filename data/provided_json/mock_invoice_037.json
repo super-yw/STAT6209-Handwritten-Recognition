@@ -1,0 +1,80 @@
+{
+    "invoice_no": "4082272599",
+    "items": [
+        {
+            "item_code": "9131690",
+            "desc_en": "STARLAND CLCN HiCa Milk 946ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 946ml HK",
+            "case_factor": "20",
+            "sold_qty": "8",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "8",
+            "del_case": "0",
+            "del_unit": "8",
+            "unit_price": "13.58",
+            "total_amount": "108.64",
+            "cust_item_code": "6312"
+        },
+        {
+            "item_code": "9131652",
+            "desc_en": "STARLAND Fresh Milk 236ml HK",
+            "desc_zh": "星光牛奶公司鮮奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "4",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "4",
+            "del_case": "0",
+            "del_unit": "4",
+            "unit_price": "5.81",
+            "total_amount": "23.24",
+            "cust_item_code": "8639"
+        },
+        {
+            "item_code": "8827362",
+            "desc_en": "GREENFIELD Soft Tofu 250g HK",
+            "desc_zh": "綠野滑豆腐 250g HK",
+            "case_factor": "12",
+            "sold_qty": "5",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "5",
+            "del_case": "0",
+            "del_unit": "5",
+            "unit_price": "5.20",
+            "total_amount": "26.00",
+            "cust_item_code": "7353"
+        },
+        {
+            "item_code": "8827362",
+            "desc_en": "GREENFIELD Soft Tofu 250g HK",
+            "desc_zh": "綠野滑豆腐 250g HK",
+            "case_factor": "12",
+            "sold_qty": "18",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "18",
+            "del_case": "0",
+            "del_unit": "18",
+            "unit_price": "5.20",
+            "total_amount": "93.60",
+            "cust_item_code": "6914"
+        },
+        {
+            "item_code": "9132657",
+            "desc_en": "STARLAND Skimmed Milk 236ml HK",
+            "desc_zh": "星光牛奶公司脫脂高鈣奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "3",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "3",
+            "del_case": "0",
+            "del_unit": "3",
+            "unit_price": "3.87",
+            "total_amount": "11.61",
+            "cust_item_code": "2673"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "invoice_no": "4082272590",
+    "items": [
+        {
+            "item_code": "9131771",
+            "desc_en": "GREENFIELD Soya Milk 236ml HK",
+            "desc_zh": "綠野鮮豆漿236ml HK",
+            "case_factor": "60",
+            "sold_qty": "10",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "10",
+            "del_case": "0",
+            "del_unit": "10",
+            "unit_price": "3.73",
+            "total_amount": "37.30",
+            "cust_item_code": "3329"
+        },
+        {
+            "item_code": "9132657",
+            "desc_en": "STARLAND Skimmed Milk 236ml HK",
+            "desc_zh": "星光牛奶公司脫脂高鈣奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "11",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "11",
+            "del_case": "0",
+            "del_unit": "11",
+            "unit_price": "3.87",
+            "total_amount": "42.57",
+            "cust_item_code": "4663"
+        },
+        {
+            "item_code": "9132657",
+            "desc_en": "STARLAND Skimmed Milk 236ml HK",
+            "desc_zh": "星光牛奶公司脫脂高鈣奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "4",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "4",
+            "del_case": "0",
+            "del_unit": "4",
+            "unit_price": "3.87",
+            "total_amount": "15.48",
+            "cust_item_code": "7140"
+        },
+        {
+            "item_code": "8827361",
+            "desc_en": "GREENFIELD Hard Tofu 340g HK",
+            "desc_zh": "綠野硬豆腐 340g HK",
+            "case_factor": "12",
+            "sold_qty": "15",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "15",
+            "del_case": "0",
+            "del_unit": "15",
+            "unit_price": "6.50",
+            "total_amount": "97.50",
+            "cust_item_code": "4985"
+        }
+    ]
+}

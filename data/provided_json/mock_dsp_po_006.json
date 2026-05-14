@@ -1,0 +1,77 @@
+{
+    "po_no": "21069000023806",
+    "items": [
+        {
+            "seq_no": "1.",
+            "ref_no": "473306",
+            "desc_en": "STRAW.L/F YOGHURT / STARLAND DAIRY F / 140 GM",
+            "desc_zh": "低脂士多啤梨乳酪 / 星光牛奶公司",
+            "case_pk": "CASE/1",
+            "barcode": "4891118281056",
+            "vendor_ref": "12195947",
+            "qty": "10",
+            "qty_breakdown": "(10+0)",
+            "price_str": "6.66 E"
+        },
+        {
+            "seq_no": "2.",
+            "ref_no": "439356",
+            "desc_en": "HI-CALCIUM MILK / STARLAND D.F. / 236 ML",
+            "desc_zh": "高鈣牛奶 / 星光牛奶公司",
+            "case_pk": "CASE/1",
+            "barcode": "4891118100418",
+            "vendor_ref": "9131687",
+            "qty": "2",
+            "qty_breakdown": "(2+0)",
+            "price_str": "5.70 E"
+        },
+        {
+            "seq_no": "3.",
+            "ref_no": "497354",
+            "desc_en": "BEANCURD FR.FRYING / GREENFIELD / 350 ML",
+            "desc_zh": "煎炸豆腐 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118411156",
+            "vendor_ref": "12163846",
+            "qty": "11",
+            "qty_breakdown": "(11+0)",
+            "price_str": "6.60 E"
+        },
+        {
+            "seq_no": "4.",
+            "ref_no": "468785",
+            "desc_en": "NO ADDED SUGAR SOYA / GREENFIELD / 946 ML",
+            "desc_zh": "無添加糖鮮豆漿 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118047041",
+            "vendor_ref": "12506335",
+            "qty": "18",
+            "qty_breakdown": "(18+0)",
+            "price_str": "12.80 E"
+        },
+        {
+            "seq_no": "5.",
+            "ref_no": "473298",
+            "desc_en": "MANGO L/F YOGHURT / STARLAND DAIRY F / 140 GM",
+            "desc_zh": "低脂芒果乳酪 / 星光牛奶公司",
+            "case_pk": "CASE/1",
+            "barcode": "4891118282053",
+            "vendor_ref": "12195948",
+            "qty": "8",
+            "qty_breakdown": "(8+0)",
+            "price_str": "6.66 E"
+        },
+        {
+            "seq_no": "6.",
+            "ref_no": "468785",
+            "desc_en": "NO ADDED SUGAR SOYA / GREENFIELD / 946 ML",
+            "desc_zh": "無添加糖鮮豆漿 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118047041",
+            "vendor_ref": "12506335",
+            "qty": "2",
+            "qty_breakdown": "(2+0)",
+            "price_str": "12.80 E"
+        }
+    ]
+}

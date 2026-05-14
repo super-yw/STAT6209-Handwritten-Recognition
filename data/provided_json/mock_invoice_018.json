@@ -1,0 +1,35 @@
+{
+    "invoice_no": "4082272580",
+    "items": [
+        {
+            "item_code": "9131771",
+            "desc_en": "GREENFIELD Soya Milk 236ml HK",
+            "desc_zh": "綠野鮮豆漿236ml HK",
+            "case_factor": "60",
+            "sold_qty": "20",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "20",
+            "del_case": "0",
+            "del_unit": "20",
+            "unit_price": "3.73",
+            "total_amount": "74.60",
+            "cust_item_code": "6295"
+        },
+        {
+            "item_code": "12452972",
+            "desc_en": "NDF Fat Free DrkYgt Jpns Wht Peh 200mlHK",
+            "desc_zh": "星光牛奶公司脫脂日式白桃味乳酪飲品 200ml HK",
+            "case_factor": "60",
+            "sold_qty": "19",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "19",
+            "del_case": "0",
+            "del_unit": "19",
+            "unit_price": "5.41",
+            "total_amount": "102.79",
+            "cust_item_code": "4761"
+        }
+    ]
+}

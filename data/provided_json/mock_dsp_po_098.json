@@ -1,0 +1,125 @@
+{
+    "po_no": "21069000023898",
+    "items": [
+        {
+            "seq_no": "1.",
+            "ref_no": "457135",
+            "desc_en": "BEANCURD TWIN PACK. / GREENFIELD / 456 ML",
+            "desc_zh": "蒸煮滑豆腐孖裝 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118040219",
+            "vendor_ref": "12066600",
+            "qty": "20",
+            "qty_breakdown": "(20+0)",
+            "price_str": "8.10 E"
+        },
+        {
+            "seq_no": "2.",
+            "ref_no": "606418",
+            "desc_en": "LITE SOYA MILK / GREENFIELD / 236 ML",
+            "desc_zh": "鮮低糖豆漿 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118433417",
+            "vendor_ref": "9131757",
+            "qty": "8",
+            "qty_breakdown": "(8+0)",
+            "price_str": "4.10 E"
+        },
+        {
+            "seq_no": "3.",
+            "ref_no": "564146",
+            "desc_en": "HARD BEANCURD / GREENFIELD / 340 GM",
+            "desc_zh": "硬豆腐 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118411729",
+            "vendor_ref": "9131782",
+            "qty": "3",
+            "qty_breakdown": "(3+0)",
+            "price_str": "7.67 E"
+        },
+        {
+            "seq_no": "4.",
+            "ref_no": "564146",
+            "desc_en": "HARD BEANCURD / GREENFIELD / 340 GM",
+            "desc_zh": "硬豆腐 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118411729",
+            "vendor_ref": "9131782",
+            "qty": "17",
+            "qty_breakdown": "(17+0)",
+            "price_str": "7.67 E"
+        },
+        {
+            "seq_no": "5.",
+            "ref_no": "439356",
+            "desc_en": "HI-CALCIUM MILK / STARLAND D.F. / 236 ML",
+            "desc_zh": "高鈣牛奶 / 星光牛奶公司",
+            "case_pk": "CASE/1",
+            "barcode": "4891118100418",
+            "vendor_ref": "9131687",
+            "qty": "5",
+            "qty_breakdown": "(5+0)",
+            "price_str": "5.70 E"
+        },
+        {
+            "seq_no": "6.",
+            "ref_no": "564146",
+            "desc_en": "HARD BEANCURD / GREENFIELD / 340 GM",
+            "desc_zh": "硬豆腐 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118411729",
+            "vendor_ref": "9131782",
+            "qty": "11",
+            "qty_breakdown": "(11+0)",
+            "price_str": "7.67 E"
+        },
+        {
+            "seq_no": "7.",
+            "ref_no": "439356",
+            "desc_en": "HI-CALCIUM MILK / STARLAND D.F. / 236 ML",
+            "desc_zh": "高鈣牛奶 / 星光牛奶公司",
+            "case_pk": "CASE/1",
+            "barcode": "4891118100418",
+            "vendor_ref": "9131687",
+            "qty": "19",
+            "qty_breakdown": "(19+0)",
+            "price_str": "5.70 E"
+        },
+        {
+            "seq_no": "8.",
+            "ref_no": "564146",
+            "desc_en": "HARD BEANCURD / GREENFIELD / 340 GM",
+            "desc_zh": "硬豆腐 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118411729",
+            "vendor_ref": "9131782",
+            "qty": "10",
+            "qty_breakdown": "(10+0)",
+            "price_str": "7.67 E"
+        },
+        {
+            "seq_no": "9.",
+            "ref_no": "473306",
+            "desc_en": "STRAW.L/F YOGHURT / STARLAND DAIRY F / 140 GM",
+            "desc_zh": "低脂士多啤梨乳酪 / 星光牛奶公司",
+            "case_pk": "CASE/1",
+            "barcode": "4891118281056",
+            "vendor_ref": "12195947",
+            "qty": "13",
+            "qty_breakdown": "(13+0)",
+            "price_str": "6.66 E"
+        },
+        {
+            "seq_no": "10.",
+            "ref_no": "564146",
+            "desc_en": "HARD BEANCURD / GREENFIELD / 340 GM",
+            "desc_zh": "硬豆腐 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118411729",
+            "vendor_ref": "9131782",
+            "qty": "20",
+            "qty_breakdown": "(20+0)",
+            "price_str": "7.67 E"
+        }
+    ]
+}

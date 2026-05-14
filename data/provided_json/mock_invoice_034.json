@@ -1,0 +1,35 @@
+{
+    "invoice_no": "4082272596",
+    "items": [
+        {
+            "item_code": "8827362",
+            "desc_en": "GREENFIELD Soft Tofu 250g HK",
+            "desc_zh": "綠野滑豆腐 250g HK",
+            "case_factor": "12",
+            "sold_qty": "9",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "9",
+            "del_case": "0",
+            "del_unit": "9",
+            "unit_price": "5.20",
+            "total_amount": "46.80",
+            "cust_item_code": "3496"
+        },
+        {
+            "item_code": "8827362",
+            "desc_en": "GREENFIELD Soft Tofu 250g HK",
+            "desc_zh": "綠野滑豆腐 250g HK",
+            "case_factor": "12",
+            "sold_qty": "11",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "11",
+            "del_case": "0",
+            "del_unit": "11",
+            "unit_price": "5.20",
+            "total_amount": "57.20",
+            "cust_item_code": "7300"
+        }
+    ]
+}

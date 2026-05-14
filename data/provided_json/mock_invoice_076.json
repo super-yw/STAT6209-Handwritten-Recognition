@@ -1,0 +1,65 @@
+{
+    "invoice_no": "4082272638",
+    "items": [
+        {
+            "item_code": "8827362",
+            "desc_en": "GREENFIELD Soft Tofu 250g HK",
+            "desc_zh": "綠野滑豆腐 250g HK",
+            "case_factor": "12",
+            "sold_qty": "11",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "11",
+            "del_case": "0",
+            "del_unit": "11",
+            "unit_price": "5.20",
+            "total_amount": "57.20",
+            "cust_item_code": "3803"
+        },
+        {
+            "item_code": "9131652",
+            "desc_en": "STARLAND Fresh Milk 236ml HK",
+            "desc_zh": "星光牛奶公司鮮奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "3",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "3",
+            "del_case": "0",
+            "del_unit": "3",
+            "unit_price": "5.81",
+            "total_amount": "17.43",
+            "cust_item_code": "9434"
+        },
+        {
+            "item_code": "12228811",
+            "desc_en": "NDF Fat Free Drk Ygt Mngo App 200ml HK",
+            "desc_zh": "星光牛奶公司脫脂乳酪飲品芒果蘋果味200ml HK",
+            "case_factor": "60",
+            "sold_qty": "17",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "17",
+            "del_case": "0",
+            "del_unit": "17",
+            "unit_price": "5.41",
+            "total_amount": "91.97",
+            "cust_item_code": "2452"
+        },
+        {
+            "item_code": "9131652",
+            "desc_en": "STARLAND Fresh Milk 236ml HK",
+            "desc_zh": "星光牛奶公司鮮奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "5",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "5",
+            "del_case": "0",
+            "del_unit": "5",
+            "unit_price": "5.81",
+            "total_amount": "29.05",
+            "cust_item_code": "3066"
+        }
+    ]
+}

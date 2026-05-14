@@ -1,0 +1,65 @@
+{
+    "invoice_no": "4082272622",
+    "items": [
+        {
+            "item_code": "9131687",
+            "desc_en": "STARLAND CLCN HiCa Milk 236ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 236ml HK",
+            "case_factor": "60",
+            "sold_qty": "7",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "7",
+            "del_case": "0",
+            "del_unit": "7",
+            "unit_price": "3.87",
+            "total_amount": "27.09",
+            "cust_item_code": "9622"
+        },
+        {
+            "item_code": "9131652",
+            "desc_en": "STARLAND Fresh Milk 236ml HK",
+            "desc_zh": "星光牛奶公司鮮奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "18",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "18",
+            "del_case": "0",
+            "del_unit": "18",
+            "unit_price": "5.81",
+            "total_amount": "104.58",
+            "cust_item_code": "3739"
+        },
+        {
+            "item_code": "9132657",
+            "desc_en": "STARLAND Skimmed Milk 236ml HK",
+            "desc_zh": "星光牛奶公司脫脂高鈣奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "4",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "4",
+            "del_case": "0",
+            "del_unit": "4",
+            "unit_price": "3.87",
+            "total_amount": "15.48",
+            "cust_item_code": "2896"
+        },
+        {
+            "item_code": "9131687",
+            "desc_en": "STARLAND CLCN HiCa Milk 236ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 236ml HK",
+            "case_factor": "60",
+            "sold_qty": "5",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "5",
+            "del_case": "0",
+            "del_unit": "5",
+            "unit_price": "3.87",
+            "total_amount": "19.35",
+            "cust_item_code": "4513"
+        }
+    ]
+}

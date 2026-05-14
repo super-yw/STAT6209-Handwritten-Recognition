@@ -1,0 +1,36 @@
+{
+    "sales_order_no": "5099880071",
+    "items": [
+        {
+            "material_no": "100019",
+            "description": "綠野鹽滷豆腐250g HK",
+            "customer_code": "431324",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "26",
+            "del_qty": "26"
+        }
+    ],
+    "total_no_of_items": "1",
+    "warehouse_information": {
+        "oc_or_dc_logistics": "",
+        "w_h_visa": "",
+        "load_weight": "",
+        "visa": ""
+    },
+    "transporter_information": {
+        "transporter": "",
+        "truck_no": "",
+        "container_no_seal_n": "",
+        "milk_crate_deposit": "",
+        "milk_crate_refund": "",
+        "visa": "",
+        "date_time": ""
+    },
+    "customer_visa": {
+        "customer_note": "",
+        "date_time": "",
+        "visa": ""
+    },
+    "company_note": ""
+}

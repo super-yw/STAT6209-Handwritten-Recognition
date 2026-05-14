@@ -1,0 +1,81 @@
+{
+    "sales_order_no": "5099880020",
+    "items": [
+        {
+            "material_no": "100017",
+            "description": "綠野蒸煮滑豆腐孖裝 (2x228ml) HK",
+            "customer_code": "174658",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "15",
+            "del_qty": "15"
+        },
+        {
+            "material_no": "100017",
+            "description": "綠野蒸煮滑豆腐孖裝 (2x228ml) HK",
+            "customer_code": "174658",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "47",
+            "del_qty": "47"
+        },
+        {
+            "material_no": "100012",
+            "description": "綠野硬豆腐340g HK",
+            "customer_code": "133725",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "30",
+            "del_qty": "30"
+        },
+        {
+            "material_no": "100017",
+            "description": "綠野蒸煮滑豆腐孖裝 (2x228ml) HK",
+            "customer_code": "174658",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "34",
+            "del_qty": "34"
+        },
+        {
+            "material_no": "100021",
+            "description": "綠野煎炸滑豆腐350ml HK",
+            "customer_code": "191653",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "19",
+            "del_qty": "19"
+        },
+        {
+            "material_no": "100017",
+            "description": "綠野蒸煮滑豆腐孖裝 (2x228ml) HK",
+            "customer_code": "174658",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "22",
+            "del_qty": "22"
+        }
+    ],
+    "total_no_of_items": "6",
+    "warehouse_information": {
+        "oc_or_dc_logistics": "",
+        "w_h_visa": "",
+        "load_weight": "",
+        "visa": ""
+    },
+    "transporter_information": {
+        "transporter": "",
+        "truck_no": "",
+        "container_no_seal_n": "",
+        "milk_crate_deposit": "",
+        "milk_crate_refund": "",
+        "visa": "",
+        "date_time": ""
+    },
+    "customer_visa": {
+        "customer_note": "",
+        "date_time": "",
+        "visa": ""
+    },
+    "company_note": ""
+}

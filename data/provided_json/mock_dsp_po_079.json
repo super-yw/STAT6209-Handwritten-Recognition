@@ -1,0 +1,29 @@
+{
+    "po_no": "21069000023879",
+    "items": [
+        {
+            "seq_no": "1.",
+            "ref_no": "473298",
+            "desc_en": "MANGO L/F YOGHURT / STARLAND DAIRY F / 140 GM",
+            "desc_zh": "低脂芒果乳酪 / 星光牛奶公司",
+            "case_pk": "CASE/1",
+            "barcode": "4891118282053",
+            "vendor_ref": "12195948",
+            "qty": "1",
+            "qty_breakdown": "(1+0)",
+            "price_str": "6.66 E"
+        },
+        {
+            "seq_no": "2.",
+            "ref_no": "564146",
+            "desc_en": "HARD BEANCURD / GREENFIELD / 340 GM",
+            "desc_zh": "硬豆腐 / 綠野",
+            "case_pk": "CASE/1",
+            "barcode": "4891118411729",
+            "vendor_ref": "9131782",
+            "qty": "8",
+            "qty_breakdown": "(8+0)",
+            "price_str": "7.67 E"
+        }
+    ]
+}

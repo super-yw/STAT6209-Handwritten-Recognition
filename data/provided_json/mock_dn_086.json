@@ -1,0 +1,45 @@
+{
+    "sales_order_no": "5099880086",
+    "items": [
+        {
+            "material_no": "100021",
+            "description": "綠野煎炸滑豆腐350ml HK",
+            "customer_code": "191653",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "5",
+            "del_qty": "5"
+        },
+        {
+            "material_no": "100025",
+            "description": "晨曦農場有機豆漿 500ml",
+            "customer_code": "665544",
+            "case_factor": "1",
+            "unit": "EA",
+            "sold_qty": "41",
+            "del_qty": "41"
+        }
+    ],
+    "total_no_of_items": "2",
+    "warehouse_information": {
+        "oc_or_dc_logistics": "",
+        "w_h_visa": "",
+        "load_weight": "",
+        "visa": ""
+    },
+    "transporter_information": {
+        "transporter": "",
+        "truck_no": "",
+        "container_no_seal_n": "",
+        "milk_crate_deposit": "",
+        "milk_crate_refund": "",
+        "visa": "",
+        "date_time": ""
+    },
+    "customer_visa": {
+        "customer_note": "",
+        "date_time": "",
+        "visa": ""
+    },
+    "company_note": ""
+}

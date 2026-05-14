@@ -1,0 +1,17 @@
+{
+    "po_no": "21069000023900",
+    "items": [
+        {
+            "seq_no": "1.",
+            "ref_no": "473306",
+            "desc_en": "STRAW.L/F YOGHURT / STARLAND DAIRY F / 140 GM",
+            "desc_zh": "低脂士多啤梨乳酪 / 星光牛奶公司",
+            "case_pk": "CASE/1",
+            "barcode": "4891118281056",
+            "vendor_ref": "12195947",
+            "qty": "18",
+            "qty_breakdown": "(18+0)",
+            "price_str": "6.66 E"
+        }
+    ]
+}

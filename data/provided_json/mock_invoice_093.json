@@ -1,0 +1,80 @@
+{
+    "invoice_no": "4082272655",
+    "items": [
+        {
+            "item_code": "9131687",
+            "desc_en": "STARLAND CLCN HiCa Milk 236ml HK",
+            "desc_zh": "星光牛奶公司高鈣奶 236ml HK",
+            "case_factor": "60",
+            "sold_qty": "9",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "9",
+            "del_case": "0",
+            "del_unit": "9",
+            "unit_price": "3.87",
+            "total_amount": "34.83",
+            "cust_item_code": "4547"
+        },
+        {
+            "item_code": "9131771",
+            "desc_en": "GREENFIELD Soya Milk 236ml HK",
+            "desc_zh": "綠野鮮豆漿236ml HK",
+            "case_factor": "60",
+            "sold_qty": "4",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "4",
+            "del_case": "0",
+            "del_unit": "4",
+            "unit_price": "3.73",
+            "total_amount": "14.92",
+            "cust_item_code": "9892"
+        },
+        {
+            "item_code": "8827361",
+            "desc_en": "GREENFIELD Hard Tofu 340g HK",
+            "desc_zh": "綠野硬豆腐 340g HK",
+            "case_factor": "12",
+            "sold_qty": "11",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "11",
+            "del_case": "0",
+            "del_unit": "11",
+            "unit_price": "6.50",
+            "total_amount": "71.50",
+            "cust_item_code": "6630"
+        },
+        {
+            "item_code": "9132657",
+            "desc_en": "STARLAND Skimmed Milk 236ml HK",
+            "desc_zh": "星光牛奶公司脫脂高鈣奶236ml HK",
+            "case_factor": "60",
+            "sold_qty": "6",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "6",
+            "del_case": "0",
+            "del_unit": "6",
+            "unit_price": "3.87",
+            "total_amount": "23.22",
+            "cust_item_code": "1919"
+        },
+        {
+            "item_code": "8827361",
+            "desc_en": "GREENFIELD Hard Tofu 340g HK",
+            "desc_zh": "綠野硬豆腐 340g HK",
+            "case_factor": "12",
+            "sold_qty": "17",
+            "rep_qty": "0",
+            "foc_qty": "0",
+            "total_qty": "17",
+            "del_case": "0",
+            "del_unit": "17",
+            "unit_price": "6.50",
+            "total_amount": "110.50",
+            "cust_item_code": "5299"
+        }
+    ]
+}
